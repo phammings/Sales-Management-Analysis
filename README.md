@@ -14,7 +14,7 @@ This project involved developing a comprehensive sales management dashboard tail
 </div>
 
 
-## [Power BI Download Link 🔗](https://public.tableau.com/views/SPXGammaProfileandExposureOverview/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+## [Power BI Download Link 🔗](https://github.com/phammings/SalesManagementAnalysis/blob/main/Sales%20Report.pbix)
 
 <!-- TABLE OF CONTENTS -->
 <details>
